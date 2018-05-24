@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 8ddbfbed80d8e424c82c5416a8733d19
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bamboo
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Cube.003
+    100012: Cube.004
+    100014: Cube.005
+    100016: Cube.006
+    100018: Cube.007
+    100020: Cube.009
+    100022: Bamboo.001
+    100024: Bamboo.002
+    100026: Bamboo.003
+    100028: Bamboo.004
+    100030: Bamboo.005
+    100032: Bamboo.006
+    100034: Bamboo.007
+    100036: Bamboo.008
+    100038: Bamboo.009
+    100040: BambooMesh
+    100042: Bone
+    100044: Bone_end
+    400000: //RootNode
+    400002: Bamboo
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Cube.003
+    400012: Cube.004
+    400014: Cube.005
+    400016: Cube.006
+    400018: Cube.007
+    400020: Cube.009
+    400022: Bamboo.001
+    400024: Bamboo.002
+    400026: Bamboo.003
+    400028: Bamboo.004
+    400030: Bamboo.005
+    400032: Bamboo.006
+    400034: Bamboo.007
+    400036: Bamboo.008
+    400038: Bamboo.009
+    400040: BambooMesh
+    400042: Bone
+    400044: Bone_end
+    2300000: //RootNode
+    2300002: Bamboo
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cube.004
+    2300014: Cube.005
+    2300016: Cube.006
+    2300018: Cube.007
+    2300020: Cube.009
+    2300022: Bamboo.001
+    2300024: Bamboo.002
+    2300026: Bamboo.003
+    2300028: Bamboo.004
+    2300030: Bamboo.005
+    2300032: Bamboo.006
+    2300034: Bamboo.007
+    2300036: Bamboo.008
+    2300038: Bamboo.009
+    3300000: //RootNode
+    3300002: Bamboo
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cube.004
+    3300014: Cube.005
+    3300016: Cube.006
+    3300018: Cube.007
+    3300020: Cube.009
+    3300022: Bamboo.001
+    3300024: Bamboo.002
+    3300026: Bamboo.003
+    3300028: Bamboo.004
+    3300030: Bamboo.005
+    3300032: Bamboo.006
+    3300034: Bamboo.007
+    3300036: Bamboo.008
+    3300038: Bamboo.009
+    4300000: Bamboo
+    4300002: Cube.007
+    4300004: Bamboo.006
+    4300006: Bamboo.003
+    4300008: Bamboo.009
+    4300010: BambooMesh
+    7400000: Bamboo|CylinderAction
+    7400002: Cube.007|CubeAction
+    7400004: Cube.007|CubeAction.001
+    7400006: Cube.007|CylinderAction
+    7400008: Cube.009|CubeAction
+    7400010: Cube.009|CubeAction.001
+    7400012: Cube.009|CylinderAction
+    7400014: Cube.006|CubeAction
+    7400016: Cube.006|CubeAction.001
+    7400018: Cube.006|CylinderAction
+    7400020: Cube.005|CubeAction
+    7400022: Cube.005|CubeAction.001
+    7400024: Cube.005|CylinderAction
+    7400026: Cube.004|CubeAction
+    7400028: Cube.004|CubeAction.001
+    7400030: Cube.004|CylinderAction
+    7400032: Cube.003|CubeAction
+    7400034: Cube.003|CubeAction.001
+    7400036: Cube.003|CylinderAction
+    7400038: Cube.002|CubeAction
+    7400040: Cube.002|CubeAction.001
+    7400042: Cube.002|CylinderAction
+    7400044: Cube.001|CubeAction
+    7400046: Cube.001|CubeAction.001
+    7400048: Cube.001|CylinderAction
+    7400050: Cube|CubeAction
+    7400052: Cube|CubeAction.001
+    7400054: Cube|CylinderAction
+    7400056: Bamboo|CubeAction
+    7400058: Bamboo|CubeAction.001
+    7400060: Bamboo|Grow
+    7400062: Bamboo|Idle
+    9500000: //RootNode
+    13700000: BambooMesh
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowPolyColorsTexture
+    second: {fileID: 2100000, guid: d6a23b27a9f95b940b2c26b43877dc52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d06f3b1e575e067458051046f9015ff9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Bamboo/Bone
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bamboo|Grow
+      takeName: Bamboo|Grow
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bamboo|Idle
+      takeName: Bamboo|Idle
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+AssetsFolder:
+- Source
+- ActionGraph
+- Cinemachine
+- DefaultPlayables
+PluginsFolder:
+- fullserializer
+- LeanTween
+- PostProcessing
+- SimpleSky
+- LiteCsvParser
+- StandardAssets.ParticleSystems
+ProjectSettingsPath: '[ProjectRoot]/ProjectSettings'
+TargetPlatforms:
+- Windows
+- Android
+- WebGL
+- Linux
+- OSX

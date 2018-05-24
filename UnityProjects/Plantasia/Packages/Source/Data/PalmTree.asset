@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fdb5fa1f5ebc9c418bb385240486b52, type: 3}
+  m_Name: PalmTree
+  m_EditorClassIdentifier: 
+  PlantType: 7
+  ModelPrefab: {fileID: 1634159548725622, guid: d59ffc3680e14d240912247a4260836f,
+    type: 2}
+  Mesh: {fileID: 4300006, guid: 4e53bf31acaad4040a218c91293f27d2, type: 3}
+  AnimatorOverrideController: {fileID: 22100000, guid: 82cf1c22854a0e442bac59ff2f96fa94,
+    type: 2}
+  NumGrowthAnims: 1
+  InitialGrowth: 0.1
+  GrowthDuration: 15
+  SeedTransform: {fileID: 0}
+  BaseRadius: 0.5
+  GrowthRequirements:
+  - {fileID: 11400000, guid: ba94172139c8dc849ad0bbfc58821b63, type: 2}
+  - {fileID: 11400000, guid: 81168fd3a4a15b541aedbdb01f0f03ef, type: 2}
+  SeedSprite: {fileID: 21300000, guid: 5c0adf387ba12bc4f92733b3df02a4a7, type: 3}

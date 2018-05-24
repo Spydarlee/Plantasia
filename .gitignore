@@ -1,0 +1,15 @@
+/.vs/Plantasia/v15/*.suo
+/.vs/Plantasia/v15/sqlite3/*.ide
+/Library
+/*.csproj
+/*.sln
+/Temp
+/PrjLog.txt
+/UnityProjects/Plantasia/.vs/Plantasia-Windows/v15/*.suo
+/UnityProjects/Plantasia/.vs/Plantasia-Windows/v15/sqlite3/*.ide
+/*.blend1
+/*.blend2
+/*.blend3
+/Content/Blend Files/*.blend1
+/Content/Blend Files/*.blend2
+/Content/Blend Files/*.blend3

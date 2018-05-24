@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 8634d90eb3e9f424a882b9486bdd2d78
+timeCreated: 1524476002
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WaterfallRocks
+    100004: WaterPlane
+    100006: LowPolyRock
+    100008: LowPolyRock.001
+    100010: LowPolyRock.002
+    100012: LowPolyRock.003
+    100014: LowPolyRock.004
+    100016: LowPolyRock.005
+    100018: LowPolyRock.006
+    100020: Pool
+    100022: LowPolyRock.007
+    100024: LowPolyRock.008
+    100026: Plane
+    100028: Cube
+    100030: Waterfall_Collision
+    100032: Waterfall_Ground
+    100034: Waterfall_Plane
+    100036: Waterfall_Rock
+    100038: Waterfall_Rock.001
+    100040: Waterfall_Rock.002
+    100042: Waterfall_Rock.003
+    100044: Waterfall_Rock.004
+    100046: Waterfall_Rock.005
+    100048: Waterfall_Rock.006
+    100050: Waterfall_Rock.007
+    100052: Waterfall_Rock.008
+    100054: Waterfall_Rock.009
+    100056: Waterfall_Rocks
+    100058: Waterfall_Water
+    100060: Waterfall_Pool
+    400000: //RootNode
+    400002: WaterfallRocks
+    400004: WaterPlane
+    400006: LowPolyRock
+    400008: LowPolyRock.001
+    400010: LowPolyRock.002
+    400012: LowPolyRock.003
+    400014: LowPolyRock.004
+    400016: LowPolyRock.005
+    400018: LowPolyRock.006
+    400020: Pool
+    400022: LowPolyRock.007
+    400024: LowPolyRock.008
+    400026: Plane
+    400028: Cube
+    400030: Waterfall_Collision
+    400032: Waterfall_Ground
+    400034: Waterfall_Plane
+    400036: Waterfall_Rock
+    400038: Waterfall_Rock.001
+    400040: Waterfall_Rock.002
+    400042: Waterfall_Rock.003
+    400044: Waterfall_Rock.004
+    400046: Waterfall_Rock.005
+    400048: Waterfall_Rock.006
+    400050: Waterfall_Rock.007
+    400052: Waterfall_Rock.008
+    400054: Waterfall_Rock.009
+    400056: Waterfall_Rocks
+    400058: Waterfall_Water
+    400060: Waterfall_Pool
+    2300000: WaterfallRocks
+    2300002: WaterPlane
+    2300004: LowPolyRock
+    2300006: LowPolyRock.001
+    2300008: LowPolyRock.002
+    2300010: LowPolyRock.003
+    2300012: LowPolyRock.004
+    2300014: LowPolyRock.005
+    2300016: LowPolyRock.006
+    2300018: Pool
+    2300020: LowPolyRock.007
+    2300022: LowPolyRock.008
+    2300024: Plane
+    2300026: Cube
+    2300028: Waterfall_Collision
+    2300030: Waterfall_Ground
+    2300032: Waterfall_Plane
+    2300034: Waterfall_Rock
+    2300036: Waterfall_Rock.001
+    2300038: Waterfall_Rock.002
+    2300040: Waterfall_Rock.003
+    2300042: Waterfall_Rock.004
+    2300044: Waterfall_Rock.005
+    2300046: Waterfall_Rock.006
+    2300048: Waterfall_Rock.007
+    2300050: Waterfall_Rock.008
+    2300052: Waterfall_Rock.009
+    2300054: Waterfall_Water
+    2300056: Waterfall_Pool
+    3300000: WaterfallRocks
+    3300002: WaterPlane
+    3300004: LowPolyRock
+    3300006: LowPolyRock.001
+    3300008: LowPolyRock.002
+    3300010: LowPolyRock.003
+    3300012: LowPolyRock.004
+    3300014: LowPolyRock.005
+    3300016: LowPolyRock.006
+    3300018: Pool
+    3300020: LowPolyRock.007
+    3300022: LowPolyRock.008
+    3300024: Plane
+    3300026: Cube
+    3300028: Waterfall_Collision
+    3300030: Waterfall_Ground
+    3300032: Waterfall_Plane
+    3300034: Waterfall_Rock
+    3300036: Waterfall_Rock.001
+    3300038: Waterfall_Rock.002
+    3300040: Waterfall_Rock.003
+    3300042: Waterfall_Rock.004
+    3300044: Waterfall_Rock.005
+    3300046: Waterfall_Rock.006
+    3300048: Waterfall_Rock.007
+    3300050: Waterfall_Rock.008
+    3300052: Waterfall_Rock.009
+    3300054: Waterfall_Water
+    3300056: Waterfall_Pool
+    4300000: WaterPlane
+    4300002: WaterfallRocks
+    4300004: LowPolyRock.006
+    4300006: LowPolyRock.005
+    4300008: LowPolyRock.004
+    4300010: LowPolyRock.003
+    4300012: LowPolyRock.002
+    4300014: LowPolyRock.001
+    4300016: LowPolyRock
+    4300018: Pool
+    4300020: LowPolyRock.008
+    4300022: LowPolyRock.007
+    4300024: Plane
+    4300026: Cube
+    4300028: Waterfall_Collision
+    4300030: Waterfall_Rock.003
+    4300032: Waterfall_Rock.002
+    4300034: Waterfall_Rock.009
+    4300036: Waterfall_Rock.001
+    4300038: Waterfall_Rock.004
+    4300040: Waterfall_Rock.005
+    4300042: Waterfall_Rock.006
+    4300044: Waterfall_Rock.007
+    4300046: Waterfall_Rock.008
+    4300048: Waterfall_Rock
+    4300050: Waterfall_Ground
+    4300052: Waterfall_Plane
+    4300054: Waterfall_Water
+    4300056: Waterfall_Pool
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowPolyColorsTexture
+    second: {fileID: 2100000, guid: d6a23b27a9f95b940b2c26b43877dc52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d06f3b1e575e067458051046f9015ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pool
+    second: {fileID: 2100000, guid: 7b14a91af265d864495905838753462d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Waterfall
+    second: {fileID: 2100000, guid: ad7f52942a282434c9383ded4617ebeb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fdb5fa1f5ebc9c418bb385240486b52, type: 3}
+  m_Name: Flower
+  m_EditorClassIdentifier: 
+  PlantType: 1
+  ModelPrefab: {fileID: 1440908542387074, guid: ee4659da49acede4c9b0bb8e3811eb6e,
+    type: 2}
+  Mesh: {fileID: 4300000, guid: d7b4fd60180d5974fabac54ebc6bf4b6, type: 3}
+  AnimatorOverrideController: {fileID: 22100000, guid: 2d211c29fda7ddc468b9007794005088,
+    type: 2}
+  NumGrowthAnims: 1
+  InitialGrowth: 0.3
+  GrowthDuration: 10
+  SeedTransform: {fileID: 4906082475877006, guid: 90a16f0cb0d661944a49665b75bc6d2a,
+    type: 2}
+  BaseRadius: 0.5
+  GrowthRequirements:
+  - {fileID: 11400000, guid: ba94172139c8dc849ad0bbfc58821b63, type: 2}
+  - {fileID: 11400000, guid: 81168fd3a4a15b541aedbdb01f0f03ef, type: 2}
+  SeedSprite: {fileID: 21300000, guid: 8c74dd89680410e48a04e02b2d7e6c5a, type: 3}

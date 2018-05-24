@@ -1,0 +1,28 @@
+locID,locText
+Intro_01,"Welcome to Plantasia, an archipelago of floating island paradises and home to a dazzling array of wondrous plant species!"
+Intro_02,"Well, it used to be. We've been looking a bit sparse lately. And the other islands seem to have wandered off. Maybe you can help?"
+Intro_03,"Oh, I'm SeedShip, by the way. Nice to meet you. You can find me on the underside of the island, but we'll get to that later."
+Intro_04,"Life! Oh, but the poor thing is looking a little parched. My analysis indicates that this plant needs sunlight and water to thrive."
+Intro_05,"Let's find a cloud and give it poke to see if we can get some water for our young friend here. You can grab clouds and move them around, too, if you like."
+Intro_06,"
+
+You can also use the scroll wheel or a pinch and drag gesture to zoom in and out for a better view."
+Intro_07,Nice! This plant is now fully grown. Give it a double- tap to harvest a new seed.
+Intro_08,"Harvesting a seed causes the plant to revert to its growing state, but it doesn't die! You can help it grow again."
+Intro_09,I'll look after any seeds you come across on your journey. Let's try planting that one you just harvested.
+Intro_10,Great! Now you can tap anywhere on the topside of the island to plant your seed.
+Intro_11,"Amazing. This place is looking better already! When you're ready for more, why not come visit me on the underside of the island?"
+Intro_12,Hi there! Good to meet you face-to-face at last. Give me a tap to have a look at your seed collection or ask for advice anytime.
+Intro_13,Or you can give me an upwards swipe if you're up for an adventure!
+Intro_14,"Welcome to the universe! Plantasia isn't the only place in the system, and many others are also home to unique and wonderful plant species."
+Intro_15,Try dragging to have a look around and then tap on a planetoid you like the look of and we'll go for a little trip.
+Intro_16,Welcome to a new world! Why don't you try helping some of the local flora grow and then harvest some seeds to take back to Plantasia?
+Intro_17,I can show you the growth requirements for any plant you tap on. And remember to give the planetoid a spin for a better look around.
+Intro_18,"Oh, and keep an eye out for those missing islands from the Plantasia archipelago. They like to hide underground but a few good taps will sort that out."
+Intro_19,"One last thing! These planetoids will change every time you play, so don't get too attached. Your home islands stay the same, though!"
+Hint_00,"You've seen all my hints now, by the way. I'm just going to start repeating them from here out. Just FYI."
+Hint_01,You can use the (?) button in the ship to get a h... wait. Nevermind.
+Hint_02,You can use button that looks like a bin (trash can) on the plant status UI to turn that plant back into a seed (no plants are harmed in this process).
+Hint_03,"Try moving me (the ship, this is the ship talking) around when we're flying through space!"
+Hint_04,"Some plants will only grow in particular environments, but you'll need to find the missing islands first!"
+Hint_05,Keep an eye out for mysterious glowing particles on the planetoids you're exploring. Give them a vigorous tapping if you find any!

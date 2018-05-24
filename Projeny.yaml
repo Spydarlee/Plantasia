@@ -1,0 +1,9 @@
+
+# You can edit this file directly
+# See documentation for the full list of configuration settings
+
+PathVars:
+    UnityProjectsDir: '[ConfigDir]/UnityProjects'
+    SharedUnityPackagesDir: '[ConfigDir]/UnityPackages'
+    LogPath: '[ConfigDir]/PrjLog.txt'
+    UnityExePath: 'C:/Program Files/Unity/Hub/Editor/2018.1.0f2/Editor/Unity.exe'

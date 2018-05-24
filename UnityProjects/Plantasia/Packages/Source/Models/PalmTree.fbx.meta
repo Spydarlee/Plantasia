@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 4e53bf31acaad4040a218c91293f27d2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: //RootNode
+    100010: PalmTree
+    100012: Fron
+    100014: Fron.001
+    100016: Fron.002
+    100018: Fron.003
+    100020: Bone
+    100022: Bone.002
+    100024: Bone.002_end
+    100026: Bone.004
+    100028: Bone.004_end
+    100030: Bone.006
+    100032: Bone.006_end
+    100034: Bone.008
+    100036: Bone.008_end
+    100038: PalmTreeMesh
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: //RootNode
+    400010: PalmTree
+    400012: Fron
+    400014: Fron.001
+    400016: Fron.002
+    400018: Fron.003
+    400020: Bone
+    400022: Bone.002
+    400024: Bone.002_end
+    400026: Bone.004
+    400028: Bone.004_end
+    400030: Bone.006
+    400032: Bone.006_end
+    400034: Bone.008
+    400036: Bone.008_end
+    400038: PalmTreeMesh
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: PalmTree
+    2300010: Fron
+    2300012: Fron.001
+    2300014: Fron.002
+    2300016: Fron.003
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: PalmTree
+    3300010: Fron
+    3300012: Fron.001
+    3300014: Fron.002
+    3300016: Fron.003
+    4300000: Cube.003
+    4300002: PalmTree
+    4300004: Fron.003
+    4300006: PalmTreeMesh
+    7400000: Cube.003|CubeAction
+    7400002: Cube.003|CylinderAction
+    7400004: Cube.003|PlaneAction
+    7400006: Cube.003|PlaneAction.001
+    7400008: Cube.003|PlaneAction.002
+    7400010: Cube.003|PlaneAction.003
+    7400012: Cube.003|PlaneAction.004
+    7400014: Cube.003|PlaneAction.005
+    7400016: Cube.003|PlaneAction.006
+    7400018: Cube.003|PlaneAction.007
+    7400020: Cube.002|CubeAction
+    7400022: Cube.002|CylinderAction
+    7400024: Cube.002|PlaneAction
+    7400026: Cube.002|PlaneAction.001
+    7400028: Cube.002|PlaneAction.002
+    7400030: Cube.002|PlaneAction.003
+    7400032: Cube.002|PlaneAction.004
+    7400034: Cube.002|PlaneAction.005
+    7400036: Cube.002|PlaneAction.006
+    7400038: Cube.002|PlaneAction.007
+    7400040: Cube.001|CubeAction
+    7400042: Cube.001|CylinderAction
+    7400044: Cube.001|PlaneAction
+    7400046: Cube.001|PlaneAction.001
+    7400048: Cube.001|PlaneAction.002
+    7400050: Cube.001|PlaneAction.003
+    7400052: Cube.001|PlaneAction.004
+    7400054: Cube.001|PlaneAction.005
+    7400056: Cube.001|PlaneAction.006
+    7400058: Cube.001|PlaneAction.007
+    7400060: Cube|CubeAction
+    7400062: Cube|CylinderAction
+    7400064: Cube|PlaneAction
+    7400066: Cube|PlaneAction.001
+    7400068: Cube|PlaneAction.002
+    7400070: Cube|PlaneAction.003
+    7400072: Cube|PlaneAction.004
+    7400074: Cube|PlaneAction.005
+    7400076: Cube|PlaneAction.006
+    7400078: Cube|PlaneAction.007
+    7400080: PalmTree|CubeAction
+    7400082: PalmTree|CylinderAction
+    7400084: PalmTree|PlaneAction
+    7400086: PalmTree|PlaneAction.001
+    7400088: PalmTree|PlaneAction.002
+    7400090: PalmTree|PlaneAction.003
+    7400092: PalmTree|PlaneAction.004
+    7400094: PalmTree|PlaneAction.005
+    7400096: PalmTree|PlaneAction.006
+    7400098: PalmTree|PlaneAction.007
+    7400100: PalmTree|Grow
+    7400102: PalmTree|Idle
+    9500000: //RootNode
+    13700000: PalmTreeMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowPolyColorsTexture
+    second: {fileID: 2100000, guid: d6a23b27a9f95b940b2c26b43877dc52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d06f3b1e575e067458051046f9015ff9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - PalmTree/Bone
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PalmTree|Grow
+      takeName: PalmTree|Grow
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PalmTree|Idle
+      takeName: PalmTree|Idle
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

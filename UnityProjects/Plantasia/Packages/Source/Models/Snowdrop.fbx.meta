@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: e9d5880b9de073e43b771c2a68d822f4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: Plane
+    100004: Plane.001
+    100006: Plane.002
+    100008: Plane.003
+    100010: //RootNode
+    100012: Snowdrop 0
+    100014: Snowdrop 1
+    100016: Snowdrop 2
+    100018: Snowdrop 3
+    100020: Snowdrop 4
+    100022: Snowdrop 5
+    100024: Snowdrop 6
+    100026: Snowdrop L
+    100028: Snowdrop P
+    100030: Snowdrop U
+    100032: Stem
+    100034: Plane.004
+    100036: Plane.005
+    100038: Plane.006
+    100040: Leaf1
+    100042: Leaf2
+    100044: Leaf3
+    100046: Leaf4
+    100048: Leaf5
+    100050: Leaf6
+    100052: Leaf7
+    100054: Armature
+    100056: Leaf1 1
+    100058: Leaf1_end
+    100060: Leaf2 1
+    100062: Leaf2_end
+    100064: Leaf3 1
+    100066: Leaf3_end
+    100068: Leaf5 1
+    100070: Leaf5_end
+    100072: Leaf6 1
+    100074: Leaf6_end
+    100076: Leaf7 1
+    100078: Leaf7_end
+    100080: SnowdropMesh
+    100082: Stem2
+    100084: Stem3
+    100086: Stem4
+    100088: Leaf4 1
+    100090: Leaf4_end
+    100092: Snowdrop
+    400000: Cylinder
+    400002: Plane
+    400004: Plane.001
+    400006: Plane.002
+    400008: Plane.003
+    400010: //RootNode
+    400012: Snowdrop 0
+    400014: Snowdrop 1
+    400016: Snowdrop 2
+    400018: Snowdrop 3
+    400020: Snowdrop 4
+    400022: Snowdrop 5
+    400024: Snowdrop 6
+    400026: Snowdrop L
+    400028: Snowdrop P
+    400030: Snowdrop U
+    400032: Stem
+    400034: Plane.004
+    400036: Plane.005
+    400038: Plane.006
+    400040: Leaf1
+    400042: Leaf2
+    400044: Leaf3
+    400046: Leaf4
+    400048: Leaf5
+    400050: Leaf6
+    400052: Leaf7
+    400054: Armature
+    400056: Leaf1 1
+    400058: Leaf1_end
+    400060: Leaf2 1
+    400062: Leaf2_end
+    400064: Leaf3 1
+    400066: Leaf3_end
+    400068: Leaf5 1
+    400070: Leaf5_end
+    400072: Leaf6 1
+    400074: Leaf6_end
+    400076: Leaf7 1
+    400078: Leaf7_end
+    400080: SnowdropMesh
+    400082: Stem2
+    400084: Stem3
+    400086: Stem4
+    400088: Leaf4 1
+    400090: Leaf4_end
+    400092: Snowdrop
+    2100000: No Name
+    2100002: LowPolyColorsTexture
+    2100004: Snowdrop Upper S
+    2100006: Snowdrop Stem01
+    2100008: Snowdrop Peta5
+    2100010: Snowdrop Peta4
+    2100012: Snowdrop Peta3
+    2100014: Snowdrop Peta2
+    2100016: Snowdrop Peta1
+    2100018: Snowdrop Petal 0
+    2100020: Snowdrop Leaf 03
+    2100022: Snowdrop Leaf 02
+    2100024: Snowdrop Leaf 01
+    2300000: Cylinder
+    2300002: Plane
+    2300004: Plane.001
+    2300006: Plane.002
+    2300008: Plane.003
+    2300010: Snowdrop 0
+    2300012: Snowdrop 1
+    2300014: Snowdrop 2
+    2300016: Snowdrop 3
+    2300018: Snowdrop 4
+    2300020: Snowdrop 5
+    2300022: Snowdrop 6
+    2300024: Snowdrop L
+    2300026: Snowdrop P
+    2300028: Snowdrop U
+    2300030: Stem
+    2300032: Plane.004
+    2300034: Plane.005
+    2300036: Plane.006
+    2300038: Leaf1
+    2300040: Leaf2
+    2300042: Leaf3
+    2300044: Leaf4
+    2300046: Leaf5
+    2300048: Leaf6
+    2300050: Leaf7
+    2300052: //RootNode
+    2300054: Leaf1 1
+    2300056: Leaf2 1
+    2300058: Leaf3 1
+    2300060: SnowdropMesh
+    3300000: Cylinder
+    3300002: Plane
+    3300004: Plane.001
+    3300006: Plane.002
+    3300008: Plane.003
+    3300010: Snowdrop 0
+    3300012: Snowdrop 1
+    3300014: Snowdrop 2
+    3300016: Snowdrop 3
+    3300018: Snowdrop 4
+    3300020: Snowdrop 5
+    3300022: Snowdrop 6
+    3300024: Snowdrop L
+    3300026: Snowdrop P
+    3300028: Snowdrop U
+    3300030: Stem
+    3300032: Plane.004
+    3300034: Plane.005
+    3300036: Plane.006
+    3300038: Leaf1
+    3300040: Leaf2
+    3300042: Leaf3
+    3300044: Leaf4
+    3300046: Leaf5
+    3300048: Leaf6
+    3300050: Leaf7
+    3300052: //RootNode
+    3300054: Leaf1 1
+    3300056: Leaf2 1
+    3300058: Leaf3 1
+    3300060: SnowdropMesh
+    4300000: Plane.003
+    4300002: Plane.002
+    4300004: Plane.001
+    4300006: Plane
+    4300008: Cylinder
+    4300010: Snowdrop U
+    4300012: Stem
+    4300014: Snowdrop 6
+    4300016: Snowdrop 5
+    4300018: Snowdrop 4
+    4300020: Snowdrop 3
+    4300022: Snowdrop 2
+    4300024: Snowdrop P
+    4300026: Snowdrop 1
+    4300028: Snowdrop 0
+    4300030: Snowdrop L
+    4300032: Plane.006
+    4300034: Plane.005
+    4300036: Plane.004
+    4300038: SnowdropMesh
+    4300040: Leaf7
+    4300042: Leaf6
+    4300044: Leaf5
+    4300046: Leaf4
+    4300048: Leaf3
+    4300050: Leaf2
+    4300052: Leaf1
+    7400000: Snowdrop|Grow
+    7400002: Snowdrop|Idle
+    9500000: //RootNode
+    13700000: Leaf1
+    13700002: Leaf2
+    13700004: Leaf3
+    13700006: Leaf4
+    13700008: Leaf5
+    13700010: Leaf6
+    13700012: Leaf7
+    13700014: SnowdropMesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Snowdrop/Stem
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Snowdrop|Grow
+      takeName: Snowdrop|Grow
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Snowdrop|Idle
+      takeName: Snowdrop|Idle
+      firstFrame: 1
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

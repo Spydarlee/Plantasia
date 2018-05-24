@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fdb5fa1f5ebc9c418bb385240486b52, type: 3}
+  m_Name: Mushroom
+  m_EditorClassIdentifier: 
+  PlantType: 3
+  ModelPrefab: {fileID: 1270028756910280, guid: cd624b46ff27b234ea48af6aa98f4a42,
+    type: 2}
+  Mesh: {fileID: 4300002, guid: 97a2e7f39b436624388cd9b53f31b005, type: 3}
+  AnimatorOverrideController: {fileID: 22100000, guid: 009ee9e8520db7b4588c728652bdd3a6,
+    type: 2}
+  NumGrowthAnims: 1
+  InitialGrowth: 0.3
+  GrowthDuration: 10
+  SeedTransform: {fileID: 4596581104646372, guid: 90a16f0cb0d661944a49665b75bc6d2a,
+    type: 2}
+  BaseRadius: 0.5
+  GrowthRequirements:
+  - {fileID: 11400000, guid: b1dda46c536ff1c418e12542212d48fe, type: 2}
+  - {fileID: 11400000, guid: 81168fd3a4a15b541aedbdb01f0f03ef, type: 2}
+  SeedSprite: {fileID: 21300000, guid: 6590fecd7011f5240b400cf92a8a0eed, type: 3}

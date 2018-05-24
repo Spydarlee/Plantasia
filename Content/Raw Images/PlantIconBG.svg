@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="594"
+   height="594"
+   viewBox="0 0 157.16269 157.16249"
+   version="1.1"
+   id="svg854"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="PlantIconBG.svg"
+   inkscape:export-filename="C:\Users\spyda\Documents\Development\Plantasia\Plantasia\UnityProjects\Plantasia\Plantasia-Windows\Assets\Source\Sprites\PlantIconBG.png"
+   inkscape:export-xdpi="26.666666"
+   inkscape:export-ydpi="26.666666">
+  <defs
+     id="defs848">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5012"
+       x="-0.11521222"
+       width="1.2304244"
+       y="-0.11521221"
+       height="1.2304244">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.4524359"
+         id="feGaussianBlur5014" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="248.78731"
+     inkscape:cy="311.69181"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata851">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(55.411032,-142.59993)">
+    <path
+       sodipodi:nodetypes="cscscscsc"
+       inkscape:connector-curvature="0"
+       id="path4894"
+       d="m 108.85591,251.73387 c 0,0 -38.947937,-6.76699 -57.546054,-2.02207 -18.598115,4.74492 -49.5437118,29.3438 -49.5437118,29.3438 0,0 6.7669896,-38.94796 2.0220695,-57.54607 -4.74492287,-18.59812 -29.3437967,-49.5437 -29.3437967,-49.5437 0,0 38.947944,6.76699 57.546063,2.02207 18.598113,-4.74492 49.543708,-29.3438 49.543708,-29.3438 0,0 -6.766993,38.94794 -2.022073,57.54606 4.74492,18.59812 29.343795,49.54371 29.343795,49.54371 z"
+       style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76182908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99494952;filter:url(#filter5012)"
+       transform="matrix(0.97966245,0,0,0.95154164,-17.632786,19.597223)"
+       inkscape:export-filename="C:\Users\spyda\Documents\Development\Plantasia\Plantasia\UnityProjects\Plantasia\Plantasia-Windows\Assets\Source\Sprites\path4894.png"
+       inkscape:export-xdpi="56.490002"
+       inkscape:export-ydpi="56.490002" />
+    <path
+       sodipodi:nodetypes="cscscscsc"
+       inkscape:connector-curvature="0"
+       id="path1410"
+       d="m 82.255784,256.24613 c 0,0 -34.241981,-5.94935 -50.592918,-1.77774 -16.350974,4.1716 -43.557492,25.79826 -43.557492,25.79826 0,0 5.949354,-34.24198 1.777748,-50.59293 -4.171605,-16.35096 -25.798263,-43.55749 -25.798263,-43.55749 0,0 34.2419694,5.94937 50.592927,1.77776 16.350964,-4.1716 43.557486,-25.79826 43.557486,-25.79826 0,0 -5.949367,34.24198 -1.777756,50.59293 4.171599,16.35096 25.798268,43.55747 25.798268,43.55747 z"
+       style="opacity:0.98999999;fill:#19ac00;fill-opacity:1;stroke:#000000;stroke-width:2.00000215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\spyda\Documents\Development\Plantasia\Plantasia\UnityProjects\Plantasia\Plantasia-Windows\Assets\Source\Sprites\path4894.png"
+       inkscape:export-xdpi="56.490002"
+       inkscape:export-ydpi="56.490002" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.15642461;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.0588593,214.36424 c -7.19643596,0.0625 -13.7677308,2.76725 -20.8767613,5.6994 1.641598,3.40492 2.954193,6.68284 3.701064,9.61026 4.1716069,16.35095 -1.777669,50.59278 -1.777669,50.59278 0,0 1.700305,-1.3517 4.5061855,-3.44424 0.7015242,-0.52316 1.4722608,-1.09286 2.3027032,-1.69912 0.8303365,-0.60618 1.7206917,-1.24909 2.6613357,-1.91926 1.1324429,-0.80681 2.34540604,-1.65583 3.608048,-2.52491 0.8353299,-0.57497 1.6883039,-1.15706 2.5688349,-1.74718 0.552727,-0.37043 1.113507,-0.74342 1.681035,-1.11673 0.56765,-0.37339 1.142241,-0.74749 1.722374,-1.12138 1.1600744,-0.74764 2.3432664,-1.49399 3.5393217,-2.22932 2.01e-4,-1.2e-4 2.64e-4,-2.6e-4 5.29e-4,-5.3e-4 1.19626,-0.73544 2.405748,-1.45966 3.619418,-2.16369 1.21367,-0.70403 2.431211,-1.38768 3.643704,-2.04122 1.818529,-0.98019 3.62571,-1.89283 5.389335,-2.70578 2.09e-4,-9e-5 2.64e-4,-5.2e-4 5.29e-4,-5.2e-4 0.326025,-0.15028 0.646567,-0.28824 0.969449,-0.4315 0.550344,-0.24418 1.100045,-0.48682 1.639692,-0.709 0.285326,-0.11748 0.569198,-0.23172 0.851111,-0.34262 0.108368,-0.0426 0.215144,-0.0824 0.322977,-0.12402 0.172805,-0.0667 0.346422,-0.13436 0.517798,-0.19844 2.09e-4,-8e-5 2.64e-4,-5.3e-4 5.29e-4,-5.3e-4 0.556556,-0.20807 1.105368,-0.40206 1.645378,-0.58084 0.06546,-0.0217 0.129616,-0.0408 0.19482,-0.062 0.411636,-0.13398 0.817952,-0.25872 1.218528,-0.37414 0.321281,-0.0926 0.640384,-0.18148 0.953947,-0.26148 0.51081,-0.13032 1.039226,-0.25068 1.583368,-0.36174 0.272158,-0.0555 0.54847,-0.10877 0.828373,-0.15967 0.517186,-0.0941 1.048917,-0.17955 1.590601,-0.25839 0.08384,-0.0122 0.167785,-0.0243 0.25218,-0.0362 0.845798,-0.11874 1.717685,-0.22065 2.613794,-0.30541 0.625116,-0.0591 1.261648,-0.11022 1.907376,-0.15399 0.645912,-0.0438 1.301388,-0.0802 1.964738,-0.10956 1.326703,-0.0588 2.68542,-0.0899 4.062801,-0.0971 0.688692,-0.004 1.38184,-10e-4 2.078427,0.007 0.696589,0.008 1.396243,0.021 2.097548,0.0393 1.402773,0.0365 2.811666,0.0929 4.214211,0.16536 1.402372,0.0725 2.798255,0.16097 4.17494,0.26148 2.065025,0.15078 4.086736,0.32853 6.022372,0.52038 1.935633,0.19185 3.785275,0.39765 5.505606,0.6041 3.440665,0.41289 6.364446,0.82864 8.428426,1.14102 2.06398,0.31237 3.268017,0.52141 3.268017,0.52141 0,0 -0.268287,-0.34076 -0.698664,-0.89503 -0.366514,-0.47065 -0.754589,-0.97365 -1.43764,-1.87379 -0.371874,-0.49008 -0.771202,-1.01948 -1.219562,-1.62006 -0.14233,-0.19061 -0.300871,-0.40674 -0.450104,-0.60771 -0.334738,-0.45086 -0.676632,-0.91359 -1.042829,-1.41335 -0.227417,-0.31031 -0.459459,-0.63025 -0.697632,-0.95809 -0.334375,-0.4603 -0.675857,-0.93389 -1.028877,-1.42626 -0.250804,-0.34974 -0.496049,-0.6921 -0.754994,-1.05679 -0.415277,-0.58492 -0.841703,-1.19395 -1.274339,-1.81384 -0.747623,-1.07104 -1.507178,-2.17147 -2.288749,-3.32951 -0.04412,-0.0654 -0.08759,-0.12921 -0.131776,-0.19482 -0.557067,-0.82711 -1.118304,-1.67121 -1.682067,-2.53215 -0.01871,-0.0285 -0.03763,-0.0572 -0.05633,-0.0858 -0.564356,-0.8627 -1.128786,-1.7389 -1.69137,-2.62723 -0.01603,-0.0253 -0.03204,-0.0501 -0.04806,-0.0755 -0.200437,-0.3168 -0.399457,-0.63563 -0.598929,-0.95498 -0.137205,-0.21967 -0.274227,-0.43918 -0.410829,-0.65991 -0.183586,-0.29662 -0.366046,-0.59364 -0.548285,-0.89193 -0.147453,-0.24136 -0.293889,-0.48326 -0.440286,-0.72554 -0.180154,-0.29812 -0.360172,-0.59578 -0.538466,-0.89503 -0.137872,-0.23143 -0.273191,-0.46362 -0.409795,-0.69557 -0.322355,-0.54731 -0.640411,-1.0948 -0.954463,-1.64383 -0.136163,-0.23804 -0.272849,-0.47603 -0.407213,-0.71416 -0.169399,-0.30023 -0.335491,-0.60009 -0.501776,-0.90021 -0.13162,-0.23756 -0.2622,-0.47476 -0.391708,-0.7121 -0.168407,-0.30861 -0.335672,-0.61652 -0.500227,-0.92449 -0.125047,-0.23403 -0.246824,-0.46723 -0.369488,-0.70073 -0.157271,-0.29938 -0.316127,-0.59885 -0.469222,-0.89711 -10.434998,3.7624 -21.971767,3.86722 -33.869249,-3.13572 -7.687836,-5.14838 -14.212268,-6.97328 -20.2840327,-6.92051 z"
+       id="path4919"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\spyda\Documents\Development\Plantasia\Plantasia\UnityProjects\Plantasia\Plantasia-Windows\Assets\Source\Sprites\path4894.png"
+       inkscape:export-xdpi="56.490002"
+       inkscape:export-ydpi="56.490002" />
+  </g>
+</svg>

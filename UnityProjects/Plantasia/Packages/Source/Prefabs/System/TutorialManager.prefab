@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1564601601323802}
+  m_IsPrefabParent: 1
+--- !u!1 &1564601601323802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4052574998344150}
+  - component: {fileID: 114575241987808286}
+  - component: {fileID: 114626695836798710}
+  m_Layer: 0
+  m_Name: TutorialManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4052574998344150
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1564601601323802}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114575241987808286
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1564601601323802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a0c94bce92af9746be8e252f4125f72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SerialisedGraph: '{"Nodes":[{"FinishedAllActions":false,"Name":"New Game","GraphWindowRect":{"xMin":145.0,"yMin":1163.0,"xMax":502.0,"yMax":1163.0},"MustFinishAllActions":true,"Actions":[{"UIElement":{"mValue":0,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null,"$id":"5"},"Enabled":false,"Status":"Executing","$type":"SetUIElementEnabled"},{"Flipable":{"mValue":1,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null,"$id":"7"},"Enabled":false,"Status":"Executing","$type":"SetFlipableEnabled"},{"Enabled":false,"Status":"Executing","$type":"SetCloudSpawningEnabled"},{"TutorialStage":"NewGame","Status":"Executing","$type":"SetTutorialStage"},{"TitleLocId":"","MessageLocId":"Intro_01","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TitleLocId":"","MessageLocId":"Intro_02","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TitleLocId":"","MessageLocId":"Intro_03","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"Status":"Executing","$type":"SpawnFirstPlant"},{"TutorialStage":"FirstPlant","Status":"Executing","$type":"SetTutorialStage"}],"OutgoingConnections":[{"ConditionRequirement":"All","Conditions":[],"StartNode":{"$ref":"2"},"EndNode":{"FinishedAllActions":false,"Name":"First
+    Plant","GraphWindowRect":{"xMin":602.0,"yMin":1312.0,"xMax":959.0,"yMax":1312.0},"MustFinishAllActions":true,"Actions":[{"UIElement":{"$ref":"5"},"Enabled":false,"Status":"Executing","$type":"SetUIElementEnabled"},{"UIElement":{"mValue":2,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null,"$id":"22"},"Enabled":false,"Status":"Executing","$type":"SetUIElementEnabled"},{"Flipable":{"$ref":"7"},"Enabled":false,"Status":"Executing","$type":"SetFlipableEnabled"},{"Enabled":false,"Status":"Executing","$type":"SetCloudSpawningEnabled"},{"TargetObject":{"mValue":null,"mBoundMemberName":"FirstPlant","mBoundOwner":3,"mBoundOwnerType":"TutorialManager","$id":"26"},"TargetOffset":{"x":0.0,"y":0.0,"z":0.0},"Status":"Executing","$type":"ShowClickPrompt"},{"ConditionToWaitFor":{"UIElement":{"mValue":4,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"CheckForVisibility":true,"$type":"UIElementIsVisible"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"UIElement":{"mValue":5,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Status":"Executing","$type":"HideUIElement"},{"TitleLocId":"","MessageLocId":"Intro_04","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TutorialStage":"FirstCloud","Status":"Executing","$type":"SetTutorialStage"}],"OutgoingConnections":[{"ConditionRequirement":"All","Conditions":[],"StartNode":{"$ref":"18"},"EndNode":{"FinishedAllActions":false,"Name":"First
+    Cloud","GraphWindowRect":{"xMin":1066.0,"yMin":1377.0,"xMax":1423.0,"yMax":1377.0},"MustFinishAllActions":true,"Actions":[{"UIElement":{"$ref":"5"},"Enabled":false,"Status":"Executing","$type":"SetUIElementEnabled"},{"UIElement":{"$ref":"22"},"Enabled":false,"Status":"Executing","$type":"SetUIElementEnabled"},{"Flipable":{"$ref":"7"},"Enabled":false,"Status":"Executing","$type":"SetFlipableEnabled"},{"TitleLocId":"","MessageLocId":"Intro_05","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"UIElement":{"mValue":6,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Instant":false,"Status":"Executing","$type":"ShowUIElement"},{"TitleLocId":"","MessageLocId":"Intro_06","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"Enabled":true,"Status":"Executing","$type":"SetCloudSpawningEnabled"},{"UIElement":{"mValue":6,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Status":"Executing","$type":"HideUIElement"},{"ConditionToWaitFor":{"Plant":{"mValue":null,"mBoundMemberName":"FirstPlant","mBoundOwner":3,"mBoundOwnerType":"TutorialManager"},"$type":"PlantIsFullyGrown","$id":"50"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"TutorialStage":"FirstSeed","Status":"Executing","$type":"SetTutorialStage"}],"OutgoingConnections":[{"ConditionRequirement":"All","Conditions":[],"StartNode":{"$ref":"37"},"EndNode":{"FinishedAllActions":false,"Name":"First
+    Seed","GraphWindowRect":{"xMin":1519.0,"yMin":1339.0,"xMax":1876.0,"yMax":1339.0},"MustFinishAllActions":true,"Actions":[{"UIElement":{"$ref":"5"},"Enabled":false,"Status":"Executing","$type":"SetUIElementEnabled"},{"UIElement":{"$ref":"22"},"Enabled":false,"Status":"Executing","$type":"SetUIElementEnabled"},{"Flipable":{"$ref":"7"},"Enabled":false,"Status":"Executing","$type":"SetFlipableEnabled"},{"TitleLocId":"","MessageLocId":"Intro_07","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TargetObject":{"$ref":"26"},"TargetOffset":{"x":0.0,"y":0.0,"z":0.0},"Status":"Executing","$type":"ShowClickPrompt"},{"ConditionToWaitFor":{"$ref":"50"},"InvertCondition":true,"Status":"Executing","$type":"WaitForCondition"},{"UIElement":{"mValue":5,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Status":"Executing","$type":"HideUIElement"},{"ConditionToWaitFor":{"NumberToCheck":1,"$type":"CheckSeedCount"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"TitleLocId":"","MessageLocId":"Intro_08","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TitleLocId":"","MessageLocId":"Intro_09","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"UIElement":{"$ref":"5"},"Enabled":true,"Status":"Executing","$type":"SetUIElementEnabled"},{"WorldSpaceTarget":{"mValue":null,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"WorldSpaceTargetOffset":{"x":0.0,"y":0.0,"z":0.0},"ScreenSpaceTarget":{"x":-770.0,"y":-400.0},"UseScreenSpaceTarget":true,"ScreenDirection":{"x":0.0,"y":1.0},"ScreenDistance":100.0,"Status":"Executing","$type":"ShowDragPrompt"},{"UIElement":{"mValue":0,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Instant":false,"Status":"Executing","$type":"ShowUIElement"},{"ConditionToWaitFor":{"SlidingPanel":{"mValue":0,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"CheckForOnScreen":true,"$type":"SlidingPanelUIIsOnScreen"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"UIElement":{"mValue":7,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Status":"Executing","$type":"HideUIElement"},{"ConditionToWaitFor":{"$type":"CurrentSeedIsSelected"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"TitleLocId":"","MessageLocId":"Intro_10","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TutorialStage":"SecondPlant","Status":"Executing","$type":"SetTutorialStage"},{"UIElement":{"$ref":"22"},"Enabled":true,"Status":"Executing","$type":"SetUIElementEnabled"}],"OutgoingConnections":[{"ConditionRequirement":"All","Conditions":[],"StartNode":{"$ref":"56"},"EndNode":{"FinishedAllActions":false,"Name":"SecondPlant","GraphWindowRect":{"xMin":2018.0,"yMin":1393.0,"xMax":2375.0,"yMax":1393.0},"MustFinishAllActions":true,"Actions":[{"ConditionToWaitFor":{"PlantCount":2,"$type":"CheckPlantCount"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"TitleLocId":"","MessageLocId":"Intro_11","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"Flipable":{"$ref":"7"},"Enabled":true,"Status":"Executing","$type":"SetFlipableEnabled"},{"WorldSpaceTarget":{"mValue":null,"mBoundMemberName":"gameObject","mBoundOwner":8,"mBoundOwnerType":"Universe"},"WorldSpaceTargetOffset":{"x":5.0,"y":0.0,"z":0.0},"ScreenSpaceTarget":{"x":0.0,"y":0.0},"UseScreenSpaceTarget":false,"ScreenDirection":{"x":0.0,"y":1.0},"ScreenDistance":225.0,"Status":"Executing","$type":"ShowDragPrompt"},{"ConditionToWaitFor":{"Flipable":{"mValue":1,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"$type":"FlipableIsUpsideDown"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"Flipable":{"$ref":"7"},"Enabled":false,"Status":"Executing","$type":"SetFlipableEnabled"},{"UIElement":{"mValue":7,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Status":"Executing","$type":"HideUIElement"},{"TitleLocId":"","MessageLocId":"Intro_12","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TitleLocId":"","MessageLocId":"Intro_13","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"WorldSpaceTarget":{"mValue":9,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"WorldSpaceTargetOffset":{"x":1.0,"y":2.0,"z":0.0},"ScreenSpaceTarget":{"x":0.0,"y":0.0},"UseScreenSpaceTarget":false,"ScreenDirection":{"x":0.0,"y":1.0},"ScreenDistance":125.0,"Status":"Executing","$type":"ShowDragPrompt"},{"ConditionToWaitFor":{"StateToMatch":"ChoosingAStar","$type":"CheckGameplayState"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"UIElement":{"mValue":7,"mBoundMemberName":null,"mBoundOwner":null,"mBoundOwnerType":null},"Status":"Executing","$type":"HideUIElement"},{"ConditionToWaitFor":{"$type":"UniverseIsVisibile"},"InvertCondition":false,"Status":"Executing","$type":"WaitForCondition"},{"Flipable":{"$ref":"7"},"Enabled":true,"Status":"Executing","$type":"SetFlipableEnabled"},{"TitleLocId":"","MessageLocId":"Intro_14","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TitleLocId":"","MessageLocId":"Intro_15","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"DragPromptScreenPos":{"x":300.0,"y":300.0},"DragPromptScreenDir":{"x":1.0,"y":0.0},"DragPromptScreenDist":100.0,"TimeWithoutInputToShowDragPrompt":2.0,"Status":"Executing","$type":"ChooseAPlanetoidTutorial"},{"TitleLocId":"","MessageLocId":"Intro_16","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TitleLocId":"","MessageLocId":"Intro_17","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TitleLocId":"","MessageLocId":"Intro_18","WaitUntilClosed":true,"Status":"Executing","$type":"ShowMessageBox"},{"TutorialStage":"NoMoreTutorials","Status":"Executing","$type":"SetTutorialStage"}],"OutgoingConnections":[],"IncomingConnections":[{"$ref":"86"},{"ConditionRequirement":"All","Conditions":[{"StageToMatch":"SecondPlant","$type":"CheckTutorialStage"}],"StartNode":{"FinishedAllActions":false,"Name":"Start
+    Node","GraphWindowRect":{"xMin":1154.0,"yMin":1015.0,"xMax":1511.0,"yMax":1015.0},"MustFinishAllActions":true,"Actions":[],"OutgoingConnections":[{"ConditionRequirement":"All","Conditions":[{"StageToMatch":"NewGame","$type":"CheckTutorialStage"}],"StartNode":{"$ref":"125"},"EndNode":{"$ref":"2"},"$id":"128"},{"ConditionRequirement":"All","Conditions":[{"StageToMatch":"FirstCloud","$type":"CheckTutorialStage"}],"StartNode":{"$ref":"125"},"EndNode":{"$ref":"37"},"$id":"131"},{"ConditionRequirement":"All","Conditions":[{"StageToMatch":"FirstPlant","$type":"CheckTutorialStage"}],"StartNode":{"$ref":"125"},"EndNode":{"$ref":"18"},"$id":"134"},{"ConditionRequirement":"All","Conditions":[{"StageToMatch":"FirstSeed","$type":"CheckTutorialStage"}],"StartNode":{"$ref":"125"},"EndNode":{"$ref":"56"},"$id":"137"},{"$ref":"122"}],"IncomingConnections":[],"$id":"125"},"EndNode":{"$ref":"88"},"$id":"122"}],"$id":"88"},"$id":"86"}],"IncomingConnections":[{"$ref":"54"},{"$ref":"137"}],"$id":"56"},"$id":"54"}],"IncomingConnections":[{"$ref":"131"},{"$ref":"35"}],"$id":"37"},"$id":"35"}],"IncomingConnections":[{"$ref":"16"},{"$ref":"134"}],"$id":"18"},"$id":"16"}],"IncomingConnections":[{"$ref":"128"}],"$id":"2"},{"$ref":"37"},{"$ref":"125"},{"$ref":"18"},{"$ref":"56"},{"$ref":"88"}],"StartNodeIndex":2}'
+  UnityObjectReferences:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 114626695836798710}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &114626695836798710
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1564601601323802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200fed8e63143ec4084d5cb863c04f22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HintLocIds:
+  - Hint_01
+  - Hint_02
+  - Hint_03
+  - Hint_04
+  - Hint_05
+--- !u!114 &114939765611511882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f945e777233a59f4aba40aeca29093a6, type: 3}
+  m_Name: TutorialManager FSM
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"version":2.7,"type":"NodeCanvas.StateMachines.FSM","nodes":[{"_actionList":{"actions":[{"waitTime":{"_value":1.0},"$type":"NodeCanvas.Tasks.Actions.Wait"},null,null]},"_position":{"x":5426.0,"y":5251.0},"$type":"NodeCanvas.StateMachines.ActionState","$id":"2"}],"connections":[],"primeNode":{"$ref":"2"},"localBlackboard":{"_name":"Local
+    Blackboard","_variables":{}}}'
+  _objectReferences: []
+  _deserializationFailed: 0

@@ -1,0 +1,21 @@
+locID,Localised Text (locText)
+Intro_01,"Bienvenue à Plantasia, un archipel de flottant îles paradisiaques et abrite une pléiade d'espèces végétales wonderous!"
+Intro_02,"Eh bien, il était. Nous avons cherché un peu clairsemés ces derniers temps. Et les autres îles semblent avoir erré au loin. Peut-être vous aider?"
+Intro_03,"Oh, je suis SeedShip, par la voie. Ravi de vous rencontrer. Vous pouvez me trouver sur la face inférieure de l'île, mais nous y reviendrons plus tard."
+Intro_04,"La vie! Oh, mais la pauvre est à la recherche un peu desséchées. Mon analyse indique que cette plante a besoin la lumière du soleil et de l'eau pour se développer."
+Intro_05,"Trouvons un nuage et donnez-lui piquez pour voir si nous pouvons obtenir un peu d'eau pour notre jeune ami. Vous pouvez saisir les nuages ​​et les déplacer, aussi, si vous le souhaitez."
+Intro_06,"
+
+Vous pouvez également utiliser la molette de défilement ou une pincée et le geste de glisser pour zoomer et pour une meilleure vue."
+Intro_07,Agréable! Cette plante est maintenant entièrement cultivé. Donnez-lui un double tap pour récolter une nouvelle semence.
+Intro_08,"La récolte d'une graine provoque la plante de revenir à son état de plus en plus, mais il ne meurt pas! Vous pouvez l'aider à grandir à nouveau"
+Intro_09,Je veillerai sur toutes les graines que vous croiserez sur votre chemin. Essayons de planter ce que vous venez moissonné.
+Intro_10,"Génial! Maintenant, vous pouvez appuyer sur n'importe où sur la face supérieure de l'île pour planter vos semences."
+Intro_11,"Incroyable. Cet endroit est à la recherche déjà mieux! Lorsque vous êtes prêt pour plus, pourquoi ne pas venir me rendre visite sur la partie inférieure de l'île?"
+Intro_12,Salut! Bon à vous rencontrer en face-à-face enfin. Donnez-moi un robinet pour jeter un oeil à votre collection de semences ou demander des conseils à tout moment.
+Intro_13,Ou vous pouvez me donner un coup vers le haut si vous êtes en une aventure!
+Intro_14,"Bienvenue dans l'univers! Plantasia est pas le seul endroit dans le système, et bien d'autres sont aussi des espèces végétales uniques et merveilleux."
+Intro_15,"Essayez de faire glisser pour faire un tour, puis appuyez sur un planétoïde vous aimez le look et nous irons pour un petit voyage."
+Intro_16,Bienvenue dans un nouveau monde! Pourquoi ne pas essayer d'aider une partie de la flore locale croître et récolter des graines pour ramener à Plantasia?
+Intro_17,Je peux vous montrer les exigences de croissance pour toute plante que vous appuyez sur. Et rappelez-vous de donner planétoïde un tour pour mieux voir autour.
+Intro_18,"Oh, et de garder un œil sur ces îles disparus de l'archipel Plantasia. Ils aiment se cacher sous terre, mais quelques bons robinets vont régler tout cela."

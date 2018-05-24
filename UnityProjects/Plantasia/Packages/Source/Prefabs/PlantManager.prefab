@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1890544149433232}
+  m_IsPrefabParent: 1
+--- !u!1 &1890544149433232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4721477094643704}
+  - component: {fileID: 114209662977609440}
+  m_Layer: 0
+  m_Name: PlantManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4721477094643704
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1890544149433232}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114209662977609440
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1890544149433232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919ef9653a156594b82a9e6b428c0d8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlantDataList:
+  - {fileID: 11400000, guid: ace12c6ba750d1043a2559bfae4f802e, type: 2}
+  - {fileID: 11400000, guid: aed4311bb82436d4faaf61c2bdb9b14a, type: 2}
+  - {fileID: 11400000, guid: edd0f09fcf803b843be395ee3533991a, type: 2}
+  - {fileID: 11400000, guid: 48c175c019a2cfe489b7c1e74a43d780, type: 2}
+  - {fileID: 11400000, guid: 8e900f070c78cfb4b86fb5c162b6dac5, type: 2}
+  - {fileID: 11400000, guid: af974014ea54cfa47993f586da86e573, type: 2}
+  - {fileID: 11400000, guid: b88b67c213e1a5c4ab6096425c9bc46f, type: 2}
+  - {fileID: 11400000, guid: 3e2030c239b574c48b8efb7779fa7902, type: 2}
+  - {fileID: 11400000, guid: f1afa58b047b6fa44ba2acf5d86deddc, type: 2}
+  SeedPrefab: {fileID: 1894502368898574, guid: c3b83062165ddec418a72d44f39831e6, type: 2}
+  DirtDecalPrefab: {fileID: 1178783972303134, guid: 442732848e38be34c92678deeb8214a2,
+    type: 2}
+  DirtDecalOffset: 0.03
+  DirtDecalUnwateredColor: {r: 0.7352941, g: 0.7352941, b: 0.7352941, a: 1}
+  DirtDecalWateredColor: {r: 0.6985294, g: 0.48953485, b: 0.14895114, a: 1}

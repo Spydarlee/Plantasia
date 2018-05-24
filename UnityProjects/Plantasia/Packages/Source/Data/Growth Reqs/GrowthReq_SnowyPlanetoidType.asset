@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f453e92108fa02747b695fecb3e08d27, type: 3}
+  m_Name: GrowthReq_SnowyPlanetoidType
+  m_EditorClassIdentifier: 
+  UISprite: {fileID: 21300000, guid: 50f7bb532a4b8394e80e2f3c3f3448bf, type: 3}
+  PlanetoidType: 1
