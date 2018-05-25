@@ -28,7 +28,7 @@ public class SaveGameManager : MonoBehaviour
     // -------------------------------------------------------------------------------
 
     private BinaryFormatter mBinaryFormatter = null;
-    private string          mSaveFileName = null;
+    private string          mSaveFilePath = null;
     private float           mTimeSinceLastSave = 0.0f;
 
     // -------------------------------------------------------------------------------
@@ -56,8 +56,25 @@ public class SaveGameManager : MonoBehaviour
 
     private void Start()
     {
-        // Load the savegame from the given file
+
+#if UNITY_WEBGL
+
+        // To ensure save/load works in the WebGL player across multiple builds we have 
+        // to use the same file path and can't rely on Application.persistentDataPath
+
+        var saveDirectory = "idbfs/Plantasia/";
+        if (!Directory.Exists(saveDirectory))
+        {
+            Directory.CreateDirectory(saveDirectory);
+        }
+
+        mSaveFilePath = saveDirectory + "savegame.plantasia";
+
+#else
         mSaveFileName = Application.persistentDataPath + "/savegame.plantasia";
+#endif
+
+        // Load the savegame from the given file
         Load();
     }
 
@@ -76,7 +93,7 @@ public class SaveGameManager : MonoBehaviour
 
     public void Save(bool updateSaveGameData = true)
     {
-        Debug.Log("Saving game to " + mSaveFileName);
+        Debug.Log("Saving game to " + mSaveFilePath);
         mTimeSinceLastSave = 0.0f;
 
         if (updateSaveGameData)
@@ -86,7 +103,7 @@ public class SaveGameManager : MonoBehaviour
         }
 
         // Save out the data!
-        FileStream file = File.Open(mSaveFileName, FileMode.OpenOrCreate);
+        FileStream file = File.Open(mSaveFilePath, FileMode.OpenOrCreate);
         mBinaryFormatter.Serialize(file, SaveGameData);
         file.Close();
     }
@@ -97,17 +114,17 @@ public class SaveGameManager : MonoBehaviour
     {
         if (!DisableLoadingFromFile || !Application.isEditor)
         {
-            if (File.Exists(mSaveFileName))
+            if (File.Exists(mSaveFilePath))
             {
-                Debug.Log("Loading savegame from " + mSaveFileName);
+                Debug.Log("Loading savegame from " + mSaveFilePath);
 
-                FileStream file = File.Open(mSaveFileName, FileMode.Open);
+                FileStream file = File.Open(mSaveFilePath, FileMode.Open);
                 SaveGameData = (GameData)mBinaryFormatter.Deserialize(file);
                 file.Close();
             }
             else
             {
-                Debug.LogWarning("Could not find savegame at:" + mSaveFileName);
+                Debug.LogWarning("Could not find savegame at:" + mSaveFilePath);
             }
         }
         else
