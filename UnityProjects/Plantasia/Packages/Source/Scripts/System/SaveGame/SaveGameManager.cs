@@ -71,7 +71,7 @@ public class SaveGameManager : MonoBehaviour
         mSaveFilePath = saveDirectory + "savegame.plantasia";
 
 #else
-        mSaveFileName = Application.persistentDataPath + "/savegame.plantasia";
+        mSaveFilePath = Application.persistentDataPath + "/savegame.plantasia";
 #endif
 
         // Load the savegame from the given file
