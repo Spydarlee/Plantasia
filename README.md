@@ -63,7 +63,3 @@ Plantasia uses [Projeny](https://github.com/modesttree/Projeny) to manage its va
 * [PostProcessing Stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912) (Unity Technologies)
 * [Simple Sky - Cartoon assets](https://assetstore.unity.com/packages/3d/simple-sky-cartoon-assets-42373)  (Synty Studios)
 * [StandardAssets.ParticleSystems](https://www.assetstore.unity3d.com/en/#!/content/32351) (Unity Technologies)
-
-## Support
-
-If you found Plantasia fun or the source useful, you can help enable me to keep my work free by [buying me a cofee](http://ko-fi.com/L4L6D3JD), [donating via Paypal](https://www.paypal.me/karnb) or becoming a patron on [Patreon](https://www.patreon.com/bePatron?u=3614608&redirect_uri=http%3A%2F%2Fkarnbianco.co.uk%2F&utm_medium=widget). Alternatively, sharing via social media is great, too. Thank you! <3
